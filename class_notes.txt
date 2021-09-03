@@ -1,0 +1,111 @@
+Day-1
+*****
+    - TypeScript is the Programming Language.
+
+    - TypeScript given by microsoft.
+
+    - TypeScript follows the OOPS.
+
+        Ex.
+            Encapsulation
+
+            Polymorphism
+
+            Inheritance
+
+            ----
+            ----
+            ----
+
+    - TypeScript used to build the Angular,React,Node, and VueJS,......
+
+    - we will save the TypeScript files with ".ts" extension.
+
+    - Visual Studio Code is Suggestable IDE to build the TypeScript Application.
+
+    - Visual Studio Code also called as VSCode
+
+    - VSCode given by microsoft and open source IDE.
+
+    - Browsers Can't understand the TypeScript.
+
+    - we need to convert TypeScript to Equalent JavaScript.
+
+    - Conversion from TypeScript to Equalent JavaScript called as Transpilation.
+
+    - "tsc" is the tool, used to perform the Transpilation.
+
+    - "tsc" stands for TypeScript Compiler.
+
+    - "tsc" present in "TypeScript" software.
+
+    - "npm" helps to install the TypeScript.
+
+    - "npm" stands for node packaging manager.
+
+    - "npm" present in NodeJS.
+
+Installation of Softwares
+*************************
+
+1) download and install "NodeJS".
+
+    - NodeJS containes following tools.
+
+        1) npm
+
+        2) node
+
+    - npm tool, helps to install the "TypeScript".
+
+    - node tool, helps to execute the "JavaScript".
+
+    website : https://nodejs.org/en/download/
+
+    file    : node-v14.17.5-x64.msi
+
+2) download and install Visual Studio Code
+
+    website : https://code.visualstudio.com/docs/?dv=win
+
+    file    : VSCodeUserSetup-x64-1.59.1.exe
+
+
+
+3) install TypeScript
+
+    > npm install -g typescript
+
+
+Transpilation
+*************
+    - Conversion from "TypeScript" to Equalent "JavaScript" called as Transpilation
+
+
+    > tsc demo.ts
+        o/p
+      demo.js
+
+    > node demo.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
